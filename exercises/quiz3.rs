@@ -59,9 +59,4 @@ mod tests {
         );
     }
 
-    #[test]
-    #[should_panic]
-    fn it_should_panic() {
-        panic!("Hello panic my old friend");
-    }
 }
